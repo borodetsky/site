@@ -1,11 +1,14 @@
 body{
-	background: red;
+	background: green;
 	font-size: 15px;
 	width: 500px;
 	margin: auto;
+
 }
 
 h1{
 	text-align: left;
-	font-size: 20px;
+
+	font-size: 50px;
+
 }
