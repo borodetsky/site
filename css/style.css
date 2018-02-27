@@ -1,6 +1,8 @@
 body{
 	background: red;
 	font-size: 15px;
+	width: 500px;
+	margin: auto;
 }
 
 h1{
